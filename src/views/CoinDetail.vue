@@ -71,7 +71,7 @@
           >
         </div>
       </div>
-
+<!-- vue 2 no funciona -->
       <!-- <line-chart
         class="my-10"
         :colors="['orange']"
